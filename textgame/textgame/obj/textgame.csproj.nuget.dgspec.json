@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sissi\\Desktop\\C#\\textgame\\textgame\\textgame.csproj": {}
+    "C:\\Users\\sissi\\Documents\\GitHub\\TextRPG2\\textgame\\textgame\\textgame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sissi\\Desktop\\C#\\textgame\\textgame\\textgame.csproj": {
+    "C:\\Users\\sissi\\Documents\\GitHub\\TextRPG2\\textgame\\textgame\\textgame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sissi\\Desktop\\C#\\textgame\\textgame\\textgame.csproj",
+        "projectUniqueName": "C:\\Users\\sissi\\Documents\\GitHub\\TextRPG2\\textgame\\textgame\\textgame.csproj",
         "projectName": "textgame",
-        "projectPath": "C:\\Users\\sissi\\Desktop\\C#\\textgame\\textgame\\textgame.csproj",
+        "projectPath": "C:\\Users\\sissi\\Documents\\GitHub\\TextRPG2\\textgame\\textgame\\textgame.csproj",
         "packagesPath": "C:\\Users\\sissi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sissi\\Desktop\\C#\\textgame\\textgame\\obj\\",
+        "outputPath": "C:\\Users\\sissi\\Documents\\GitHub\\TextRPG2\\textgame\\textgame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

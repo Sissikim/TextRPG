@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xrXfqw5MnQzxNA2mKstbRCWYd9ieSz8Ox1eqKXgceLNMPkD7ZBacWyxKtCE4sAMjN2tiimVllidFPhQMteSb1w==",
+  "dgSpecHash": "cjG/gZ/8GRjjSrvQgKYEEujLM3vXSIK/9FhfpYYDqm9zqEzPoBGkEvmbcOWKv8cLAT9rKq9xetlLwUeFjTLeLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sissi\\Desktop\\C#\\textgame\\textgame\\textgame.csproj",
+  "projectFilePath": "C:\\Users\\sissi\\Documents\\GitHub\\TextRPG2\\textgame\\textgame\\textgame.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sissi\\.nuget\\packages\\documentformat.openxml\\3.0.2\\documentformat.openxml.3.0.2.nupkg.sha512",
     "C:\\Users\\sissi\\.nuget\\packages\\documentformat.openxml.framework\\3.0.2\\documentformat.openxml.framework.3.0.2.nupkg.sha512",

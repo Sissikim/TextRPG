@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("textgame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e246539d3f09c4a4c34893e7609147c5111291c")]
 [assembly: System.Reflection.AssemblyProductAttribute("textgame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("textgame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

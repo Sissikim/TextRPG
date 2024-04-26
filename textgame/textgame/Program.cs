@@ -266,6 +266,6 @@ namespace textgame
             Console.WriteLine($"- 청동 도끼      | 공격력  {this.Effect}  |  어디선가 사용됐던 것 같은 도끼입니다.        |   {this.Price} G");
             Console.WriteLine($"- 스파르타의 창      | 공격력  {this.Effect}  |  스파르타의 전사들이 사용했다는 전설의 창입니다. |   {this.Price} G");
         }
-        //이거저거 찾아봐도 머리가 새하얘져서 못하겠음......
+        //해설영상 보며 새 파일로 따라 만들어본 후에 다시 비교해보기.
     }
 }

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sissi\\Desktop\\C#\\textgame\\",
+  "WorkspaceRootPath": "C:\\Users\\sissi\\Documents\\GitHub\\TextRPG2\\textgame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A2E63FA-8F92-40A9-A907-5C857B7A7D87}|textgame\\textgame.csproj|c:\\users\\sissi\\desktop\\c#\\textgame\\textgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A2E63FA-8F92-40A9-A907-5C857B7A7D87}|textgame\\textgame.csproj|c:\\users\\sissi\\documents\\github\\textrpg2\\textgame\\textgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A2E63FA-8F92-40A9-A907-5C857B7A7D87}|textgame\\textgame.csproj|solutionrelative:textgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sissi\\Desktop\\C#\\textgame\\textgame\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sissi\\Documents\\GitHub\\TextRPG2\\textgame\\textgame\\Program.cs",
               "RelativeDocumentMoniker": "textgame\\Program.cs",
-              "ToolTip": "C:\\Users\\sissi\\Desktop\\C#\\textgame\\textgame\\Program.cs",
+              "ToolTip": "C:\\Users\\sissi\\Documents\\GitHub\\TextRPG2\\textgame\\textgame\\Program.cs",
               "RelativeToolTip": "textgame\\Program.cs",
-              "ViewState": "AQIAAPgAAAAAAAAAAADwvwwBAAAoAAAA",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAAAAwBAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T06:48:02.82Z",
               "EditorCaption": ""
